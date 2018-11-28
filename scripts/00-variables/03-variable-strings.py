@@ -7,3 +7,6 @@ print(mystring)
 
 mystring = "Hello"
 print(mystring)
+
+# Multi line comment
+# test
