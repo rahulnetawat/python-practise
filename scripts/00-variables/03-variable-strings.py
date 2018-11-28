@@ -2,11 +2,10 @@
 # Scripts for practise purpose only.
 # Variable example with strings.
 
+# Single Quote String
 mystring = 'Hello'
 print(mystring)
 
+# Double Quote String
 mystring = "Hello"
 print(mystring)
-
-# Multi line comment
-# test
