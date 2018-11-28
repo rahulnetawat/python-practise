@@ -1,0 +1,3 @@
+myvar = "Rahul"
+
+print(myvar)
